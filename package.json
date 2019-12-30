@@ -1,0 +1,19 @@
+{
+  "name": "buildinglink-oauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "qs": "^6.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
